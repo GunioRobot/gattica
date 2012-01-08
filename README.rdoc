@@ -1,1 +1,1 @@
-## Please use the copy of Gattica found at [http://github.com/chrisle/gattica](http://github.com/chrisle/gattica)
+Please use the copy of Gattica found at http://github.com/chrisle/gattica
